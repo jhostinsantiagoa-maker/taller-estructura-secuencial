@@ -1,0 +1,9 @@
+Algoritmo circulo
+Definir a,p,r como real 
+Escribir "ingresa tu radio" 
+Leer r
+a =PI*r*r
+p=2*PI*r
+Escribir " tu area es ", a
+Escribir "tu perimetro es ", p
+FinAlgoritmo

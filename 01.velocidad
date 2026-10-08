@@ -1,0 +1,9 @@
+Algoritmo calcularvelocidad
+	Definir Distancia, tiempo, velocidad Como Real
+	Escribir 'escribe la distancia'
+	Leer Distancia
+	Escribir 'escribe el tiempo '
+	Leer tiempo
+	velocidad <- Distancia/tiempo
+	Escribir 'la velocidad es:', velocidad
+FinAlgoritmo
