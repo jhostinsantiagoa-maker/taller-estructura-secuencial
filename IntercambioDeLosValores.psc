@@ -4,7 +4,7 @@ Algoritmo IntercambioDeValores
     Leer A
     Escribir "Ingrese la segunda palabra :"
     Leer B
-    aux <- A
+    auxiliar <- A
     A <- B
     B <- auxiliar
     Escribir "El contenido de A es: ", A
